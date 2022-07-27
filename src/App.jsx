@@ -1,10 +1,16 @@
 import React from "react";
-
+import "antd/dist/antd.min.css";
+import ContextApi from "./api/ContextApi";
+import { BrowserRouter } from "react-router-dom";
+import Myroutes from "./routes/MyRoutes";
+import "./global.css";
 const App = () => {
   return (
-    <div>
-      <h1>Inventory Management</h1>
-    </div>
+    <BrowserRouter>
+      <ContextApi>
+        <Myroutes />
+      </ContextApi>
+    </BrowserRouter>
   );
 };
 

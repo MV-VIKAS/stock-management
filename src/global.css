@@ -3,3 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+.sidebar {
+  padding: 0.5rem 1rem;
+  margin: 2rem 1rem;
+  font-weight: 500;
+  border-bottom: 3px solid;
+  letter-spacing: 0.5rem;
+  color: white;
+}
+.open{
+  background-color: rgb(121, 164, 47);
+}

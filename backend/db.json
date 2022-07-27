@@ -1,0 +1,48 @@
+{
+  "owner": [
+    {
+      "address": "asd",
+      "company": "asda",
+      "department": "asdad",
+      "email": "asdsadasd",
+      "name": "sasada",
+      "password": "ssad",
+      "contact": "sdfsd",
+      "id": "Ao3-6OO"
+    },
+    {
+      "address": "asdad",
+      "company": "asd",
+      "department": "asdasd",
+      "email": "asdasdasd",
+      "name": "asdasd",
+      "password": "sadasd",
+      "contact": "asdad",
+      "id": "H2trAbj"
+    },
+    {
+      "address": "saada",
+      "company": "adsdasd",
+      "id": "R6P0lew"
+    },
+    {
+      "address": "asdad",
+      "company": "asd",
+      "department": "asdasd",
+      "email": "asdasdasd",
+      "name": "asdasd",
+      "password": "sadasd",
+      "contact": "asdad",
+      "id": "qepeKyo"
+    },{
+      "address": "asdad",
+      "company": "asd",
+      "department": "asdasd",
+      "email": "asdasdasd",
+      "name": "asdasd",
+      "password": "sadasd",
+      "contact": "asdad",
+      "id": "qepeKyo"
+    }
+  ]
+}

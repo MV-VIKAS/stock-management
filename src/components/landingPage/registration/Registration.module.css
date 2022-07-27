@@ -1,0 +1,27 @@
+.Form_Body {
+  border: 1px solid transparent;
+  margin: auto;
+  padding: 2rem 0rem;
+  height: fit-content;
+  width: 70%;
+  border-radius: 0.7rem;
+  box-shadow: 0px 0px 5px 10px #ffffff38;
+  background-color: #fff;
+}
+.Form_Body h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+.switch {
+  margin: 3rem 0px 0px 15rem;
+}
+.switch span:nth-child(2){
+    margin-left: 0.5rem;
+    font-weight: bold;
+    color: #1890FF;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Form_Body button{
+  margin-left: 14rem;
+}

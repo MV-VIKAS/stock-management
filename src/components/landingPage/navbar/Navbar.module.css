@@ -1,0 +1,33 @@
+.navbar_component {
+  margin-bottom: 2rem;
+  min-height: 5rem;
+  box-shadow: 0px 0px 10px 2px black;
+  background-color: #fff;
+}
+.navbar_component article {
+  min-height: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem 0 0;
+}
+.auth button {
+  width: 8rem;
+  height: 2.3rem;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  background-color: crimson;
+  color: white;
+  font-weight: bold;
+}
+.auth button:hover {
+  cursor: pointer;
+  background-color: rgb(150, 0, 30);
+}
+.auth button:nth-child(2) {
+  margin-left: 1.5rem;
+}
+.logo img {
+  width: 17rem;
+  height: 5rem;
+}

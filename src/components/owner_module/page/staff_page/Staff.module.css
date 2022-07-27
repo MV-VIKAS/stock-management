@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2rem;
+}
+.cards {
+  padding: 0.2rem;
+}
+.icon {
+  font-size: 3rem;
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+} 
